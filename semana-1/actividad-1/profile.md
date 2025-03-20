@@ -1,6 +1,6 @@
 #Activida Introductoria
 
-_¿Por qué te has apntado a este curso?_
+_¿Por qué te has apuntado a este curso?_
 
 El curso me ayudara a obtener los conocimientos necesarios ara poder involucrarme con la comnidad de de desarrollo de software y a tener mejores oportunidades laborales en el area.
 
